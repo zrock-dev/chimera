@@ -1,0 +1,1 @@
+-- This is the file to create our DB healthcare management system.
